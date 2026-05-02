@@ -1,7 +1,7 @@
 # Spatio-Temporal Traffic Risk Engine
 
 California traffic accident risk prediction engine built with Python, LightGBM, Uber H3, SHAP, and Streamlit.
-
+dataset :https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents?utm_source=chatgpt.com
 ## Project Overview
 
 This project predicts accident risk across California using spatio-temporal feature engineering on the US Accidents dataset.  
@@ -210,5 +210,7 @@ This is making the app more practical for hosted environments such as Streamlit 
 - add richer SHAP-based dashboard visuals
 - expand deployment and documentation
 
-
+## Acknowledgements
+[1] Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, and Rajiv Ramnath. “A Countrywide Traffic Accident Dataset.”, 2019.
+[2] Moosavi, Sobhan, Mohammad Hossein Samavatian, Srinivasan Parthasarathy, Radu Teodorescu, and Rajiv Ramnath. "Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights." In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019.
 
